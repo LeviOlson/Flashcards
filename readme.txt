@@ -6,6 +6,6 @@ When you open a deck, you will be shown the front of a card. Think about what th
 If your answer was right, click the got it button. You can click the continue button to move on to the next card, whether you got it right or wrong.
 The process will continue until you have gotten each card right.
 
-You can find the repository here: 
+You can find the repository here: https://github.com/LeviOlson/Flashcard
 
 The license for this software can be found in the license.txt file
